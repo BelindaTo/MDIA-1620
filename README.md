@@ -21,4 +21,6 @@
 
 Which Language will we be using the most?
 
-`git clone` copies a version of my repository
+`git clone` - copies a version of my repository
+
+`git status` - prints our the status of my local repos
