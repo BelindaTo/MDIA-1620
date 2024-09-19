@@ -21,3 +21,4 @@
 
 Which Language will we be using the most?
 
+`git clone` copies a version of my repository
