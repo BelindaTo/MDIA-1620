@@ -33,3 +33,4 @@ let horseDiscount = "donut saved $" + ((STABLE_MONTHLY_FEE * 3) * 0.10) + " afte
 console.log(horseDiscount);
 let horseTotal = "donut paid $540 for 3 months of rent total.";
 console.log(horseTotal);
+
