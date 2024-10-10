@@ -12,7 +12,7 @@ console.log(STABLE_MONTHLY_FEE);
 console.log(2+3);
 console.log(STABLE_MONTHLY_FEE * 3);
 let horseNickname = "nut";
-console.log(horseNickname);
+console.log(horseNickname)
 
 
 // let rentIntroduction = "it costs " + STABLE_MONTHLY_FEE + " to board " + horseName;
@@ -34,3 +34,10 @@ console.log(horseDiscount);
 let horseTotal = "donut paid $540 for 3 months of rent total.";
 console.log(horseTotal);
 
+
+///////Lab 5////////
+if(isHorseInStable) {
+    console.log(horseName + " is inside!")
+} else {
+    console.log(horseName + " is outside!");
+}
