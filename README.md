@@ -4,17 +4,17 @@
 ![1673_TurkeyCranbProvoSandwich__FillWzExNzAsNTgzXQ](https://github.com/user-attachments/assets/da2a77ac-4032-469c-8bdb-c868e2e37056)
 
 
-**"aha moments"**
->1. I learnt how to do basic math in github
->2. I learnt how much my horse pays in rent
->3. I learned how to properly use and create variables
+**"3 things that are confusing"**
+>1. Navigating the push/pull method
+>2. horses outside or inside
+>3. using branches
 
-**Things that are still unclear**
->1. creating branches
->2. push/pull into github
+**3 things that I have a solid understanding about**
+>1. using terminal in VS Code
+>2. horse introduction/naming my horse
 
-**How are you feeling?**
->1. I feel very acomplished!
+**analogies that I use**
+>1. Life is like a moving car, that's why whats in front of you is so much more important than the rearview mirror.
 
 
 `git clone` - copies a version of my repository
